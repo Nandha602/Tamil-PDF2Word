@@ -1,4 +1,4 @@
-# PDF2Word
+# Tamil PDF2Word
 
 **Convert PDFs into editable Word documents with real, copy-paste-friendly Tamil text.**
 
